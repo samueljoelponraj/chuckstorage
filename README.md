@@ -19,8 +19,6 @@ For getting the latest stable code: `git pull origin production; git checkout pr
   
 * Open the application in browser: http://localhost/ipfscloud
 
-## Developer APIs
-You can find developer APIs here: **[Developer Docs](https://ipfscloud.store/app/docs/v1/)**
 
 # IpfsCloud Upload Button Widget
 
