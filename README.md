@@ -1,6 +1,6 @@
-***We are working to restructure this project to make the platform sustainable and feasible.***
+*** this project to make the platform sustainable and feasible.***
 
-# [IpfsCloud](https://ipfscloud.store)
+# IpfsCloud
 
 IpfsCloud: A Decentralized, Anonymous Cloud Storage Platform on IPFS.
 
