@@ -1,6 +1,6 @@
-***We are working to restructure this project to make the platform sustainable and feasible.***
+*** this project to make the platform to sustainable and feasible.***
 
-# [IpfsCloud](https://ipfscloud.store)
+# [chuck-storage](https://ipfscloud.store)
 
 IpfsCloud: A Decentralized, Anonymous Cloud Storage Platform on IPFS.
 
